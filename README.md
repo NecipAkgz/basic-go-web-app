@@ -1,4 +1,4 @@
-# Go-Chi Router Simple Web App README
+# Go-Chi Router Simple Web App
 
 This is a simple web application in Go (Golang) using the Go-Chi router. It serves as a basic template for building web applications in Go. The Go-Chi router is a lightweight, fast, and highly performant router that is ideal for building RESTful APIs and web services in Go.
 
