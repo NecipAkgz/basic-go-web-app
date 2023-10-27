@@ -39,8 +39,6 @@ This simple web application demonstrates the basic usage of the Go-Chi router. Y
 - Easy to expand and build upon.
 
 ## Author
-
-- Your Name
 - GitHub: [NecipAkgz](https://github.com/NecipAkgz)
 
 ## Acknowledgments
